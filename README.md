@@ -1,4 +1,5 @@
-### Hi there 👋
+### hello, i'm "tmddmddnjs" 
+I look forward to your kind cooperation.
 
 <!--
 **tmddmddnjs/tmddmddnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
